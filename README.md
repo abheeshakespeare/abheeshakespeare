@@ -169,7 +169,7 @@ A from-scratch banking backend showcasing OOP design, concurrency-safe accounts,
 
 | Area | Focus |
 |---|---|
-| 🧠 DSA | 250+ LeetCode + 500+ across GFG, HackerRank, Codeforces |
+| 🧠 DSA | 450+ LeetCode + 500+ across GFG, HackerRank, Codeforces |
 | 🏗️ System Design | Scalability patterns, distributed caching, rate limiting |
 | ⚙️ MERN Mastery | Production-grade auth, testing, CI/CD pipelines |
 | 🎯 Placements | Preparing for SDE roles at top tech companies |
