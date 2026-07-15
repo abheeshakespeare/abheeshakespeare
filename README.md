@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhishek%20Kr.%20Mishra&fontSize=48&fontColor=fff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20ML%20Enthusiast&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Abhishek%20Kr.%20Mishra&fontSize=42&fontColor=fff&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20ML%20Enthusiast&descSize=16&descAlignY=55" width="100%"/>
 
 <a href="https://www.abhishekmishra.me/">
   <img src="https://img.shields.io/badge/Portfolio-abhishekmishra.me-6C3EF4?style=for-the-badge&logo=aboutdotme&logoColor=white" />
