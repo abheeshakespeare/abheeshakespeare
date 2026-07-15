@@ -139,8 +139,8 @@ A from-scratch banking backend showcasing OOP design, concurrency-safe accounts,
 ### 📊 GitHub Analytics
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=abhishekmishra28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmishra28&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishekmishra28&theme=github_dark" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishekmishra28&theme=github_dark" />
 </div>
 
 <div align="center">
